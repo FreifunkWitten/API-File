@@ -1,1 +1,41 @@
-{"name":"FreifunkWitten","url":"http://witten.freifunk.net","location":{"city":"Witten","country":"Germany","lat":51.444585,"lon":7.370686},"contact":{"email":"freifunk@borggraefe.com","jabber":"BorgTenOfNine@jabber.ccc.de"},"metacommunity":"FreifunkRheinland","techDetails":{"routing":""},"state":{"lastchange":"2014-04-27T13:56:21.143Z"},"api":"0.3.0"}
+{
+  "name": "FreifunkWitten",
+  "url": "http://witten.freifunk.net",
+  "location": {
+    "city": "Witten",
+    "country": "DE",
+    "lat": 51.444585,
+    "lon": 7.370686
+  },
+  "contact": {
+    "email": "freifunk@borggraefe.com",
+    "jabber": "BorgTenOfNine@jabber.ccc.de",
+    "twitter": "@FreifunkWitten"
+  },
+  "metacommunity": "FreifunkRheinland",
+  "state": {
+    "nodes": 7,
+    "focus": [
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2014-08-26T23:54:31.633Z"
+  },
+  "techDetails": {
+    "firmware": {
+      "name": "rheinufer",
+      "url": "http://images.freifunk-rheinland.net/images/gluon/rheinufer/latest/"
+    },
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpninternational",
+      "p2pblock",
+      "institutions"
+    ],
+    "routing": []
+  },
+  "api": "0.4.1"
+}
