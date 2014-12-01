@@ -10,11 +10,12 @@
   "contact": {
     "email": "freifunk@borggraefe.com",
     "jabber": "BorgTenOfNine@jabber.ccc.de",
-    "twitter": "@FreifunkWitten"
+    "twitter": "@FreifunkWitten",
+    "facebook": "https://www.facebook.com/freifunkwitten"
   },
   "metacommunity": "FreifunkRheinland",
   "state": {
-    "nodes": 7,
+    "nodes": 50,
     "focus": [
       "Public Free Wifi",
       "Social Community Building",
