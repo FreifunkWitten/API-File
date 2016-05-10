@@ -33,6 +33,14 @@
     "updatemode": [
       "autoupdate"
     ],
+    "nodeMaps": [
+    {
+      "url": "https://map.ff-en.de/data/wit/nodelist.json",
+      "interval": "20min",
+      "technicalType": "nodelist",
+      "mapType": "list/status"
+    }
+  ],
     "legals": [
       "vpnnational",
       "vpninternational",
